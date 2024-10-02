@@ -11,3 +11,6 @@ def RecSecond(request):
 
 def RecThird(request):
     return HttpResponse('Третий запрос')
+
+def RecForth(request):
+    return HttpResponse('Дз №2')
